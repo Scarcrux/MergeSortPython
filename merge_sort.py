@@ -26,8 +26,7 @@ def merge(A, p, q, r):
     # set infinite sentinel
     L[n1] = float("inf")
     R[n2] = float("inf")
-    print(L)
-    print(R)
+
     # reset loop counters
     i = 0
     j = 0
